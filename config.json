@@ -1,0 +1,15 @@
+{
+  "username": "KevalXD",
+  "display_name": "Keval",
+  "host": "github",
+  "photo": "source-photo.png",
+  "ascii_columns": 100,
+  "card": {
+    "Role": "ISE student · frontend developer in progress",
+    "Focus": "React, TypeScript, UI architecture",
+    "Stack": "React, TypeScript, Vite, Tailwind, Git",
+    "Project": "React To-Do App · live on Vercel",
+    "Goal": "Build clean, useful frontend applications",
+    "GitHub": "github.com/KevalXD"
+  }
+}
