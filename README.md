@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Keval%20Jain&fontSize=54&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20in%20Progress%20%7C%20ISE%20Student&descAlignY=60&descSize=17" width="100%" alt="Keval Jain profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F1A,55:1B2236,100:3A2F14&height=230&section=header&text=Keval%20Jain&fontSize=56&fontColor=D4AF37&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20in%20Progress%20%7C%20ISE%20Student&descColor=E8D5A3&descAlignY=60&descSize=17" width="100%" alt="Keval Jain profile banner" />
 
 <a href="https://github.com/KevalXD">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Keval+%F0%9F%91%8B;Frontend+Developer+in+Progress;Building+with+React+%26+TypeScript;Learning+by+shipping+projects+%F0%9F%9A%80" alt="Hi, I'm Keval — frontend developer in progress" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=D4AF37&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Keval+%F0%9F%91%8B;Frontend+Developer+in+Progress;Building+with+React+%26+TypeScript;Learning+by+shipping+projects+%F0%9F%9A%80" alt="Hi, I'm Keval — frontend developer in progress" />
 </a>
 
 <br />
 
-![Profile views](https://komarev.com/ghpvc/?username=KevalXD&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/KevalXD?label=Followers&style=for-the-badge&color=00F5FF&logo=github)](https://github.com/KevalXD?tab=followers)
-[![Live project](https://img.shields.io/badge/Live%20Project-To--Do%20App-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://react-to-do-app-kevalxd.vercel.app/)
+![Profile views](https://komarev.com/ghpvc/?username=KevalXD&label=Profile%20Views&color=D4AF37&labelColor=0B0F1A&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/KevalXD?label=Followers&style=for-the-badge&color=D4AF37&labelColor=0B0F1A&logo=github&logoColor=D4AF37)](https://github.com/KevalXD?tab=followers)
+[![Live project](https://img.shields.io/badge/Live%20Project-To--Do%20App-E8D5A3?style=for-the-badge&logo=vercel&logoColor=0B0F1A&labelColor=1B2236)](https://react-to-do-app-kevalxd.vercel.app/)
 
 <br />
 
@@ -36,14 +36,14 @@ I'm an Information Science and Engineering student building a strong foundation 
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![C](https://img.shields.io/badge/C%20(fundamentals)-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![React](https://img.shields.io/badge/React-0B0F1A?style=for-the-badge&logo=react&logoColor=D4AF37)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B0F1A?style=for-the-badge&logo=typescript&logoColor=D4AF37)
+![Vite](https://img.shields.io/badge/Vite-0B0F1A?style=for-the-badge&logo=vite&logoColor=D4AF37)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0B0F1A?style=for-the-badge&logo=tailwindcss&logoColor=D4AF37)
+![C](https://img.shields.io/badge/C_(fundamentals)-0B0F1A?style=for-the-badge&logo=c&logoColor=D4AF37)
+![Git](https://img.shields.io/badge/Git-0B0F1A?style=for-the-badge&logo=git&logoColor=D4AF37)
+![GitHub](https://img.shields.io/badge/GitHub-0B0F1A?style=for-the-badge&logo=github&logoColor=D4AF37)
+![Vercel](https://img.shields.io/badge/Vercel-0B0F1A?style=for-the-badge&logo=vercel&logoColor=D4AF37)
 
 </div>
 
@@ -53,16 +53,27 @@ I'm an Information Science and Engineering student building a strong foundation 
 
 A live React project where I practice building and deploying useful frontend applications. [Open the app](https://react-to-do-app-kevalxd.vercel.app/).
 
+## ✨ Contribution Graph
+
+<div align="center">
+
+<!-- Generated daily by .github/workflows/update-profile-art.yml → contrib-heatmap.svg -->
+<a href="https://github.com/KevalXD?tab=overview">
+  <img src="./contrib-heatmap.svg" width="95%" alt="Keval's contribution heatmap — gold light sweeps across the year, active days pop, best day pulses" />
+</a>
+
+</div>
+
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KevalXD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9" alt="Keval's GitHub statistics" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=KevalXD&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" alt="Keval's GitHub contribution streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KevalXD&show_icons=true&hide_border=false&border_color=2A3350&bg_color=0B0F1A&title_color=D4AF37&icon_color=D4AF37&text_color=E8E4D8&ring_color=D4AF37" alt="Keval's GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevalXD&layout=compact&hide_border=false&border_color=2A3350&bg_color=0B0F1A&title_color=D4AF37&text_color=E8E4D8" alt="Keval's top languages" />
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KevalXD&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5FF&line=00F5FF&point=ffffff" width="95%" alt="Keval's GitHub activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KevalXD&bg_color=0B0F1A&color=E8D5A3&line=D4AF37&point=F5F1E8&area=true&area_color=D4AF37&hide_border=true" width="95%" alt="Keval's GitHub activity graph" />
 
 </div>
 
@@ -72,8 +83,8 @@ I'm always happy to connect about frontend development, projects, and learning t
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=700&color=00F5FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+%F0%9F%91%8B;Let's+build+and+learn+together+%F0%9F%9A%80" alt="Thanks for visiting" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=700&color=E8D5A3&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+%F0%9F%91%8B;Let's+build+and+learn+together+%F0%9F%9A%80" alt="Thanks for visiting" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A2F14,55:1B2236,100:0B0F1A&height=110&section=footer" width="100%" alt="" />
 
 </div>

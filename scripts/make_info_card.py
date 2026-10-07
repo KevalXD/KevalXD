@@ -2,7 +2,7 @@
 import os, textwrap
 from common import ROOT, load_config, esc
 
-BG, BAR, FG, KEY, ACC = "#0d1117", "#161b22", "#c9d1d9", "#39d353", "#58a6ff"
+BG, BAR, FG, KEY, ACC = "#0B0F1A", "#151B2E", "#E8E4D8", "#D4AF37", "#E8D5A3"
 W, LH, PADX, KEYW, WRAP = 490, 22, 22, 104, 38
 
 def main():
@@ -22,14 +22,14 @@ def main():
            "</style>",
            f'<rect width="{W}" height="{H}" rx="10" fill="{BG}"/>',
            f'<path d="M0 10a10 10 0 0 1 10-10h{W-20}a10 10 0 0 1 10 10v26H0z" fill="{BAR}"/>',
-           '<circle cx="20" cy="18" r="5" fill="#ff5f56"/><circle cx="38" cy="18" r="5" fill="#ffbd2e"/><circle cx="56" cy="18" r="5" fill="#27c93f"/>',
-           f'<text x="{W/2}" y="22" text-anchor="middle" fill="#8b949e">~ neofetch</text>',
+           '<circle cx="20" cy="18" r="5" fill="#8A6D1D"/><circle cx="38" cy="18" r="5" fill="#B8962E"/><circle cx="56" cy="18" r="5" fill="#D4AF37"/>',
+           f'<text x="{W/2}" y="22" text-anchor="middle" fill="#8E93A6">~ neofetch</text>',
            f'<text x="{PADX}" y="58" fill="{ACC}" class="l" style="animation-delay:.1s">$ neofetch</text>']
     for i, (kind, a, b) in enumerate(lines):
         yy = 74 + (i + 1) * LH
         d = f'style="animation-delay:{0.3 + i*0.12:.2f}s"'
         if kind == "t":
-            out.append(f'<text x="{PADX}" y="{yy}" fill="{ACC if i == 0 else "#484f58"}" class="l" {d}>{esc(a)}</text>')
+            out.append(f'<text x="{PADX}" y="{yy}" fill="{ACC if i == 0 else "#4A5068"}" class="l" {d}>{esc(a)}</text>')
         else:
             out.append(f'<text x="{PADX}" y="{yy}" class="l" {d}><tspan fill="{KEY}" font-weight="bold">{esc(a)}</tspan>'
                        f'<tspan x="{PADX+KEYW}" fill="{FG}">{esc(b)}</tspan></text>')

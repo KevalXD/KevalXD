@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 628 628" width="628" height="628" role="img" aria-label="ASCII portrait">
-<rect width="100%" height="100%" rx="10" fill="#0d1117"/>
+<rect width="100%" height="100%" rx="10" fill="#0B0F1A"/>
 <defs>
 <clipPath id="r0"><rect x="14" y="14.0" width="0" height="10.0"><animate attributeName="width" from="0" to="600" begin="0.00s" dur="0.5s" fill="freeze"/></rect></clipPath>
 <clipPath id="r1"><rect x="14" y="24.0" width="0" height="10.0"><animate attributeName="width" from="0" to="600" begin="0.07s" dur="0.5s" fill="freeze"/></rect></clipPath>
@@ -62,7 +62,7 @@
 <clipPath id="r58"><rect x="14" y="594.0" width="0" height="10.0"><animate attributeName="width" from="0" to="600" begin="4.06s" dur="0.5s" fill="freeze"/></rect></clipPath>
 <clipPath id="r59"><rect x="14" y="604.0" width="0" height="10.0"><animate attributeName="width" from="0" to="600" begin="4.13s" dur="0.5s" fill="freeze"/></rect></clipPath>
 </defs>
-<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#c9d1d9">
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#E8D5A3">
 <text x="14" y="62.0" textLength="600" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#r4)">        .................                                                  .................        </text>
 <rect x="14" y="55.0" width="6.0" height="8.0" opacity="0"><animate attributeName="x" from="14" to="614" begin="0.28s" dur="0.5s" fill="freeze"/><set attributeName="opacity" to="0.9" begin="0.28s"/><set attributeName="opacity" to="0" begin="0.78s"/></rect>
 <text x="14" y="72.0" textLength="600" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#r5)">        *%%%%%%%%%%%%%%%%:                                                .#%%%%%%%%%%%%%%%#        </text>

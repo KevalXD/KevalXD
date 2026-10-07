@@ -5,7 +5,7 @@ from common import ROOT, load_config, esc
 
 RAMP = " .`:-=+*cs#%@"   # bright (sparse) -> dark (dense)
 CW, CH, FS = 6.0, 10.0, 10   # char cell width/height, font size
-FG, BG = "#c9d1d9", "#0d1117"
+FG, BG = "#E8D5A3", "#0B0F1A"
 ROW_DUR, STAGGER = 0.5, 0.07
 
 def main():
