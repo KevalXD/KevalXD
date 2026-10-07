@@ -73,8 +73,6 @@ A live React project where I practice building and deploying useful frontend app
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KevalXD&bg_color=0B0F1A&color=E8D5A3&line=D4AF37&point=F5F1E8&area=true&area_color=D4AF37&hide_border=true" width="95%" alt="Keval's GitHub activity graph" />
-
 </div>
 
 ## 📫 Let's Connect
